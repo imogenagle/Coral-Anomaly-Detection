@@ -32,7 +32,7 @@ Deep-sea corals play a critical role in marine ecosystems but are highly sensiti
 - Isolation Forest and One-Class SVM (strongest models) show ~57% agreement
 - High-confidence aomalies clustered into two distinct regimes:
     - Deep, cold, low-oxygen
-    - shallow, warm, oxygen righ
+    - shallow, warm, oxygen-righ
 - Two species (Antipatharia and Corallium regale) with elevated anomaly rates were already recognized as vulnerable
 
 ## Tech Stack
