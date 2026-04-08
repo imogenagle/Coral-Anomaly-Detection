@@ -21,7 +21,7 @@ Deep-sea corals play a critical role in marine ecosystems but are highly sensiti
 - Isolation Forest
 - One-Class SVM
 
-###Evaluation:
+### Evaluation:
 - Jaccard similartiy for model agreement
 - Confidence tiers:
     - High: all models agree
